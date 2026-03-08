@@ -1,0 +1,21 @@
+# Models (too large for GitHub)
+models/
+
+# FAISS index
+*.index
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.egg-info/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Unzipped data
+unzipped_data/
